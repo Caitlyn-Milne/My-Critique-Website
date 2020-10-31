@@ -1,3 +1,3 @@
 $(document).ready(function(){
-      $("#content").load("home.html");
+      $("#content").load("./Layouts/home.html");
 });
